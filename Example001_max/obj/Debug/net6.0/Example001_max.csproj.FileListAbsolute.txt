@@ -1,0 +1,15 @@
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\bin\Debug\net6.0\Example001_max.exe
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\bin\Debug\net6.0\Example001_max.deps.json
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\bin\Debug\net6.0\Example001_max.runtimeconfig.json
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\bin\Debug\net6.0\Example001_max.dll
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\bin\Debug\net6.0\Example001_max.pdb
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\obj\Debug\net6.0\Example001_max.csproj.AssemblyReference.cache
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\obj\Debug\net6.0\Example001_max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\obj\Debug\net6.0\Example001_max.AssemblyInfoInputs.cache
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\obj\Debug\net6.0\Example001_max.AssemblyInfo.cs
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\obj\Debug\net6.0\Example001_max.csproj.CoreCompileInputs.cache
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\obj\Debug\net6.0\Example001_max.dll
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\obj\Debug\net6.0\refint\Example001_max.dll
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\obj\Debug\net6.0\Example001_max.pdb
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\obj\Debug\net6.0\Example001_max.genruntimeconfig.cache
+C:\Users\alena\OneDrive\Рабочий стол\ExamplesHomework\Example001_max\obj\Debug\net6.0\ref\Example001_max.dll
